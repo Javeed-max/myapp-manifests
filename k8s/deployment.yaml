@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: javeedpasha555/myapp:1
+          image: javeedpasha555/myapp:4
           ports:
             - containerPort: 5000
